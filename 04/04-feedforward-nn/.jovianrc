@@ -2,6 +2,9 @@
   "notebooks": {
     "notebook_source__.ipynb": {
       "slug": "charitarthchugh/04-feedforward-nn"
+    },
+    "04-feedforward-nn.ipynb": {
+      "slug": "ac2fc0bfa75d4fd396e5588f5edc699b"
     }
   }
 }
