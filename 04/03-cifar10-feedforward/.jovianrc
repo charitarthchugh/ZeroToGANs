@@ -2,6 +2,9 @@
   "notebooks": {
     "notebook_source__.ipynb": {
       "slug": "charitarthchugh/03-cifar10-feedforward"
+    },
+    "03-cifar10-feedforward.ipynb": {
+      "slug": "bd9f50c12f25456fb4ea8d944f0f57cf"
     }
   }
 }
